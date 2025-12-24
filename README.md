@@ -13,4 +13,4 @@ Keeping the design simple and readable
 
 This project helped me understand the basics of building a multi-page website and improved my confidence with HTML and CSS.
 
-Thank you
+Thank you for visiting my portfolio website!
